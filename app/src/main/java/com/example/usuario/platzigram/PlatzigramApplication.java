@@ -14,7 +14,7 @@ public class PlatzigramApplication extends Application {
     FirebaseAuth firebaseAuth;
     FirebaseAuth.AuthStateListener authStateListener;
     private FirebaseStorage firebaseStorage;
-
+    //Comentario
     @Override
     public void onCreate() {
         super.onCreate();
